@@ -1,0 +1,16 @@
+:root {
+    --utopia-primary-color: #e3127e;
+  }
+
+* {
+    position: relative;
+}
+
+body {
+    margin: 0;
+    font: 16px/20px "Lucida Grande", Tahoma, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+}
